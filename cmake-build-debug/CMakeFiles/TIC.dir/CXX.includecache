@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/asus/CLionProjects/TIC/Person.cpp
+iostream
+-
+Person.h
+C:/Users/asus/CLionProjects/TIC/Person.h
+ctime
+-
+
+C:/Users/asus/CLionProjects/TIC/Person.h
+
+C:/Users/asus/CLionProjects/TIC/main.cpp
+iostream
+-
+Person.h
+C:/Users/asus/CLionProjects/TIC/Person.h
+
